@@ -54,6 +54,7 @@ Through a quick Google search, I was able to shortlist several fairly recent art
 Before I can explain the different techniques, I need to point out the distinction between different forms of reach. You might think that the exact type of reach does not matter as long as it yields results, but some articles do make distinction between different forms of reach. In order to explain the theory behind these articles, I have decided to do the same.
 
 >Facebook reach is the number of unique people who see your content on the social network. It’s a measurement of your brand’s effective audience. Not all of your fans will see every single post you publish. And not everyone who sees your updates will be fans of your Page
+>
 >\- Jennifer Beese (Sprout Social)
 
 As for the different types of reach, the aforementioned article uses the following categories:
@@ -80,6 +81,7 @@ For example, you could post a picture of one of our day programs for disability 
 When people hear the word "hashtag", they often think of Twitter. The use of hashtags has since expanded to other social media platforms. Facebook, Instagram, and Tumblr are examples of platforms that have functional support for hashtags. As a result, it may be necessary to use them in order to increase reach.
 
 >A hashtag is a label for content. It helps others who are interested in a certain topic, quickly find content on that same topic. [...] Anyone sharing content on a relevant topic can add the hashtag label to their message.  Others searching for that topic, can search for that label to find other messages on that same social media platform.
+>
 >\- Anita Campbell (Small Business Trends)
 
 \
@@ -121,6 +123,7 @@ In comparison to hashtags, the CTA is subjective. There are no right or wrong wa
 CTAs can be used in order to ask questions to your followers.
 
 >Asking questions to your followers activates them, leading to greater reach for your Page. At the same time, it gives you the answers to questions that may be crucial for your company’s sales and marketing.
+>
 >\- Robert Rydefalk (Meltwater)
 
 When you ask the users a question, the goal is to start a discussion. Furthermore, participating in this discussion yourself reassures your followers that they are heard. You do not have to answer *every* single question or reply to *every* single response, but the important part is the interaction between viewers and providers. The idea is to show them that as an organization, you are active, approachable and sensitive to their concerns. In return, users will be more likely to remain loyal fans and recommend it to their friends. Taking every opportunity to engage your audience is part of what keeps them coming back for more.
@@ -133,6 +136,7 @@ It may also help to acknowledge shared posts. In other words, if a particular fa
 A picture is worth a thousand words. It is often much quicker to find a decent image and upload it to Facebook, rather than type out a wall of text. While images will not always replace text information, it is hard to deny that they can be more likely to capture the user's attention.
 
 >We are very visual creatures. A large percentage of the human brain dedicates itself to visual processing. Our love of images lies with our cognition and ability to pay attention. Images are able to grab our attention easily, we are immediately drawn to them.
+>
 > \-James Balm (BioMed Central)
 
 To reiterate, I am not suggesting that images replace text. You are able to include a short text description with an image post. Instead of relying solely on a long passage of text, you may upload a relevant image with a short description to establish context. It is a lot easier and quicker for the provider while more exciting and engaging for the user. Using a short description alongside the image is also a fair compromise for users who actively prefer text as opposed to images.
@@ -149,6 +153,7 @@ This sales promotion post from JB Hi-Fi includes both an image and a short text 
 When expanding the reach of a Facebook page, a good starting point would be posting content optimized to generate attention and reactions. I do not mean that this should be done artificially or that we should inflate numbers for the sake of it. I am referring to organic optimization. As people skim down their news feed, your content has to capture the user’s attention so that they stop and read. The promise of the content and what is being delivered should inspire and motivate people to react to, engage and share it.
 
 >You should never publish content just for the sake of updating your Timeline — this applies to any social network, not only Facebook. Instead you should focus on creating content that fulfils your business objectives. The updates you post need to add value in some way, whether they’re educational, entertaining or conversational.
+>
 > \-Praneeta (Digible)
 
 The Facebook news feed is seldom an exhaustive list of the recent content shared by those you are connected to. Rather, the posts that you will see upon refreshing the homepage are prioritized in such a way to maximize your potential engagement. Trying to describe this system in detail would warrant a report of its own and even here, there is no way to list all of the possible factors.
@@ -164,6 +169,7 @@ Some of the most important factors include:
 To describe the end result of this system:
 
 >The Facebook news feed algorithms reward active advertisers and engaging content. The more reactions, comments, and shares your posts get, the better their reach. This goes for both organic and paid (your advertising dollars will go further).
+>
 > \-Mari Smith (Social Media Examiner)
 
 In summary, the more reactions a post has, the more likely it will receive a high priority when loading one’s news feed. The best way to ensure that, of course, is to post content that captivates attention and entices a reaction.
@@ -234,6 +240,7 @@ This is exactly what it sounds like. You can pay for Facebook to advertise your 
 >For some posts, your objective may be to raise awareness and increase engagement and video views, for example. But for other posts, you’ll want to promote those with a link so you can drive traffic to your website. 
 >[...]
 >After you **select your posts, decide how you want to allocate your budget**. For the best results, spread out your ad spend and avoid blowing your entire budget on a single post with one boost or one ad.
+>
 >\-Mari Smith (Social Media Examiner)
 
 ---
@@ -328,6 +335,7 @@ For example, you can filter to display information about people who are interest
 The ‘Page Likes’ tab shows top categories related to the audiences and in turn, the fan pages related to that audience behaviour. This tab shows audience data that can help indicate which pages have more engagement in comparison to others.
 
 >Notice that this table shows different data like audience and affinity, which is used to identify which fanpages have more engagement than others. This information is used by advertisers to know which competitors have better marketing strategies and engagement with their audiences. While big fanpages show low affinity rates because of the huge amount of fans, which doesn’t mean low engagement, you can actually see difference in the affinity rate between smaller fanpages.
+>
 > \-Maryam Sicard (Stream SEO)
 
 \
