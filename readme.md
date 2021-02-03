@@ -301,7 +301,7 @@ The insights tool divides statistics into three categories:
 
 
 #### Accessing
-In order to access the 'Audience Insights' tool, you must open the 'Facebook Ad Manager'. It is found within the dropdown menu under the "Analyse and Report" section.
+In order to access the 'Audience Insights' tool, you must open the 'Facebook Ad Manager'. It is found within the drop-down menu under the "Analyse and Report" section.
 
 \
 ![Open Audience Insights](./images/audience-insights/open.jpg)
@@ -455,7 +455,7 @@ The 'People' section displays information about the number of people who have in
 \
 ![Page Insights - People](./images/page-insights/people.jpg)
 
-For example, this screenshot indicates that out of all of the depicted page's fans, 57% of them are women, 41% are men, and the remaining 2% presumebly have a different gender identity. The column graph shows that the most popular gender-age demographic is women aged 45 to 54.
+For example, this screenshot indicates that out of all of the depicted page's fans, 57% of them are women, 41% are men, and the remaining 2% presumably have a different gender identity. The column graph shows that the most popular gender-age demographic is women aged 45 to 54.
 
 ---
 
@@ -547,13 +547,13 @@ Here is a list of all of the sources used when writing this document. They are s
 * [How to Tag People on Facebook](https://www.wikihow.com/Tag-People-on-Facebook)  
 \-wikiHow Staff (wikiHow)
 
-* [How To Use Facebook Preferred Audience Targeting For Organic Posts](https://fanbooster.com/blog/facebook-audience-targeting-organic-posts/)  
+* [How to Use Facebook Preferred Audience Targeting For Organic Posts](https://fanbooster.com/blog/facebook-audience-targeting-organic-posts/)  
 \-Andrew Kunesh (Fanbooster)
 
 * [How To Reach New Audiences with Facebook Audience Insights](https://napoleoncat.com/blog/facebook-audience-insights/)  
 \-Kasia Slonawska (NapoleonCat)
 
-* [Cat stock photo](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/)  
+* [Cat Stock Photo](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/)  
 \-Nennieinszweidrei (Pixabay)
 
 * [5 Ways to use Facebook Audience Insights](https://revealbot.com/blog/facebook-audience-insights/)  
@@ -562,7 +562,7 @@ Here is a list of all of the sources used when writing this document. They are s
 * [How to Use Facebook Audience Insights for Precise Ad Targeting](https://blog.hootsuite.com/facebook-audience-insights/)  
 \-Todd Clarke (Hootsuite)
 
-* [Page Insights dashboard screencap](https://mgnsw.org.au/sector/resources/online-resources/digital/facebook-evaluation/)  
+* [Page Insights Dashboard Screencap](https://mgnsw.org.au/sector/resources/online-resources/digital/facebook-evaluation/)  
 \-Musuems & Galleries of NSW
 
 * [The Beginner’s Guide to Facebook Analytics](https://blog.hootsuite.com/facebook-analytics-insights-beginners-guide/)  
@@ -578,15 +578,15 @@ This repository is based on an internal document I wrote as part of the IT team 
 
 I wrote the original version of this document on 5-6 September 2017. While this information appears to still be relevant as of 2021, there is no guarantee that it is accurate or up-to-date.
 
-The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon with context. The revised document was then shared publicly to GitHub on 3 Feburary 2021.
+The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon with context. The revised document was then shared publicly to GitHub on 3 February 2021.
 
 The sources I have used - both for the original document, and when revising for public release - have been linked in the [Further Reading](#further-reading) section with the name of the author. All links have been verified as of 3 Feburary 2021. The information I used for this document is the property of its respective legal owners.
 
 The screencaps of [Bill Gates'](https://www.facebook.com/BillGates) Facebook fan page are my own work and were made on September 6 2017.
 
-The screencap of the [JB Hi-Fi](https://www.facebook.com/JBHiFi) sales promotion post on their Facebook fan page is my own work and was made on 2 Feburary 2021.
+The screencap of the [JB Hi-Fi](https://www.facebook.com/JBHiFi) sales promotion post on their Facebook fan page is my own work and was made on 2 February 2021.
 
-The [Cat](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/) image file was retrieved from Pixabay on 1 Feburary 2021, which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. I used a different Cat image when writing the original document. However, it was from a commercial source so I replaced it with a 'Creative Commons' image.
+The [Cat](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/) image file was retrieved from Pixabay on 1 February 2021, which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. I used a different Cat image when writing the original document. However, it was from a commercial source so I replaced it with a 'Creative Commons' image.
 
 All other images originate from the source articles linked in 'Further Reading'
 
@@ -595,3 +595,4 @@ Minor edits were performed on different images using [GIMP](https://www.gimp.org
 This document as a whole is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
