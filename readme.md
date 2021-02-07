@@ -453,7 +453,7 @@ The 'People' section displays information about the number of people who have in
 * Total number of people who have actively engaged.
 
 \
-![Page Insights - People](./images/page-insights/people.jpg)
+![Page Insights - People](./images/page-insights/people.png)
 
 For example, this screenshot indicates that out of all of the depicted page's fans, 57% of them are women, 41% are men, and the remaining 2% presumably have a different gender identity. The column graph shows that the most popular gender-age demographic is women aged 45 to 54.
 
@@ -582,7 +582,7 @@ The document was converted to markdown on 1-3 Feburary 2021. Any organization-sp
 
 The sources I have used - both for the original document, and when revising for public release - have been linked in the [Further Reading](#further-reading) section with the name of the author. All links have been verified as of 3 Feburary 2021. The information I used for this document is the property of its respective legal owners.
 
-The screencaps of [Bill Gates'](https://www.facebook.com/BillGates) Facebook fan page are my own work and were made on September 6 2017.
+The screencaps of [Bill Gates'](https://www.facebook.com/BillGates) Facebook fan page are my own work and were made on 6 September 2017
 
 The screencap of the [JB Hi-Fi](https://www.facebook.com/JBHiFi) sales promotion post on their Facebook fan page is my own work and was made on 2 February 2021.
 
