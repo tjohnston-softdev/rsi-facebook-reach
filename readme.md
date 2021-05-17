@@ -574,7 +574,7 @@ Here is a list of all of the sources used when writing this document. They are s
 ## Disclaimer
 This repository is based on an internal document written as part of the IT team at Response Services Incorporated. It was originally written on 5-6 September 2017. While this information appears to still be relevant as of 2021, there is no guarantee that it is accurate or up-to-date.
 
-The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon. The revised document was then shared publicly to GitHub on 3 February 2021.
+The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon. The revised document was then shared publicly to GitHub on 3 February 2021. The document was declared to be final on 17 May 2021.
 
 The sources used - both for the original document, and when revising for public release - have been linked in the [Further Reading](#further-reading) section with the name of the author. All links have been verified as of 3 Feburary 2021. The information used for this document is the property of its respective legal owners.
 
@@ -591,4 +591,3 @@ Minor edits were performed on different images using [GIMP](https://www.gimp.org
 This document as a whole is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
-
