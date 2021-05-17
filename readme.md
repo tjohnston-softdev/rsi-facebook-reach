@@ -1,7 +1,7 @@
 # Facebook Reach
 
 ## Contents
-* [Introduction](#introduction)
+* [Preface](#preface)
 * [Reach Types](#reach-types)
 * [Techniques](#techniques)
 	* [Personality](#personality)
@@ -43,15 +43,15 @@
 
 ---
 
-## Introduction
-Recently, I was asked to do some research regarding Social Media, and how to expand the reach of the official Facebook fan page at Response Services Incorporated. I will admit that I was a little hesitant at first. This is because in my personal opinion, the social media and advertising industries can be quite shady. Even though I cannot compare Response to an organization such as Buzzfeed, it is still something I am wary of in principle. However, I later realized that optimizing the reach of a social media page is not that different from optimizing a web page for search engine rankings. I had no moral hesitation in researching [Search Engine Optimization](https://github.com/tjohnston-softdev/rsi-seo-tips) previously, so I was a little more comfortable with doing social media research now.
+## Preface
+During early-September 2017 while working at Response Services Incorporated, I was asked to do some research regarding Social Media, and how to expand the reach of our official Facebook fan page. I will admit that I was a little hesitant at first. This is because in my personal opinion, the social media and advertising industries can be quite shady. Even though I could not compare Response to an organization such as Buzzfeed, it was still something that I was concerned about in principle. After taking some time to think about it, I realized that optimizing the reach of a social media page is not that different from optimizing a web page for search engine rankings. I had no moral hesitation in researching [Search Engine Optimization](https://github.com/tjohnston-softdev/rsi-seo-tips) previously, so I was a little more comfortable with undertaking this task.
 
-Through a quick Google search, I was able to shortlist several fairly recent articles which explain how one may increase the overall reach of their Facebook page. The catch is that as generalized as these sources are, they are still targeted towards large businesses and/or clickbait distributors. Seeing as Response is *neither* of those things, it is apparent that not all of this information applies to us. As a regional business, Response's Facebook page would be quite simple to maintain in comparison to worldwide brands such as McDonalds. What this report sets out to do is summarize the practices recommended by the articles into a single result.
+Through a quick Google search, I was able to shortlist several then-recent articles which explain how one may increase the overall reach of their Facebook page. The catch is that as generalized as the sources were, they were still targeted towards large businesses and/or clickbait distributors. Seeing as Response was*neither* of those things, it was apparent to me that not all of the information would apply to us. As a regional business, Response's Facebook page was quite small and simple to maintain in comparison to a worldwide brand such as McDonalds. This document was the result of summarizing and consolidating the information found across the different articles. This includes the common practices recommended by the writers in order to improve the reach of a Facebook page.
 
 ---
 
 ## Reach Types
-Before I can explain the different techniques, I need to point out the distinction between different forms of reach. You might think that the exact type of reach does not matter as long as it yields results, but some articles do make distinction between different forms of reach. In order to explain the theory behind these articles, I have decided to do the same.
+Before the different techniques can be explained, we must first make the distinction between different forms of reach. You might think that the exact type of reach does not matter as long as it yields results, but some articles do make these distinctions. In order to better expalin the theory behind it, this document will do the same.
 
 >Facebook reach is the number of unique people who see your content on the social network. It’s a measurement of your brand’s effective audience. Not all of your fans will see every single post you publish. And not everyone who sees your updates will be fans of your Page
 >
@@ -66,14 +66,14 @@ As for the different types of reach, the aforementioned article uses the followi
 ---
 
 ## Techniques
-The rest of this report is going to summarize the different techniques that I have found for expanding Facebook reach. The techniques that I have chosen to discuss are common between most of the articles I read. Since this is a summary, I will not reference the exact source for each piece of information unless it is a direct quotation. Instead, the sources will be listed at the end of this report for further reading.
+The rest of this report is going to summarize commonly used for expanding Facebook reach. The chosen techniques are common between most of the articles found. Since this is a summary, the exact source will not be referenced for each piece of information unless it is a direct quotation. Instead, the sources will be listed at the end for further reading.
 
 ---
 
 ### Personality
 Simply put, nobody likes a boring brand. If an online presence can be likened to a stage performance, it is best to make it as entertaining as possible. It may be difficult to balance this against a professional image but things do not always have to be serious. There are many ways to go about this but the idea is to incorporate fun, quirky, and light-hearted content.
 
-For example, you could post a picture of one of our day programs for disability clients, such as our video game group. It could even be as simple as showing a couple of friends together going about their day. Both of these ideas aim to depict the fun side of things and may entice interest in our services.
+In this use case, you could post a picture of one of our day programs for disability clients, such as our video game group. It could even be as simple as showing a couple of friends going about their day. Both of these ideas aim to depict the fun side of things and may entice interest in our services.
 
 ---
 
@@ -85,7 +85,7 @@ When people hear the word "hashtag", they often think of Twitter. The use of has
 >\- Anita Campbell (Small Business Trends)
 
 \
-To add a hashtag to your post, type the **#** symbol before adding the relevant keyword (#example)
+To add a hashtag to your post, type the **#** symbol before adding the relevant keyword - [#example](#hashtags)
 
 ---
 
@@ -95,11 +95,11 @@ To add a hashtag to your post, type the **#** symbol before adding the relevant 
 
 
 \
-Imagine I run a Facebook page and I decide to post this Cat picture. If I chose to use hashtags, I would use ones like #cat, #adorable, #meow, or similar keywords. The tags should relate to the post content.
+Imagine that you run a Facebook page and you decide to post this Cat picture. If you chose to use hashtags, you might use ones such as [#cat](#hashtags), [#adorable](#hashtags), or [#meow](#hashtags). The tags should relate to the post content.
 
-The tricky part about using hashtags in my opinion is moderation. Keep in mind that hashtags in social media were popularized by Twitter, so it is arguable that other platforms have 'copied' Twitter's hashtag mechanic.  I can understand how hashtags can be used to categorize posts and drive traffic but using any more than a few hashtags on a post can be seen as obnoxious. This means that users will ignore the content, or perhaps unlike the page entirely.
+The tricky part about using hashtags is moderation. Keep in mind that hashtags in social media were popularized by Twitter, so it is arguable that other platforms have 'copied' Twitter's hashtag mechanic.  Hashtags can be used to categorize posts and drive traffic but using any more than a few hashtags on a post can be seen as obnoxious. This creates the risk that users will ignore the content, or perhaps unlike the page entirely.
 
-If I were running a social media page and felt the need to use hashtags, I would only use up to three per post...
+If you do feel the need to use hashtags, only use up to three per post...
 
 \
 ![Too many hashtags](./images/hashtags.jpg)
@@ -115,7 +115,7 @@ The Call-to-Action is a marketing tactic which directly addresses the viewer as 
 * Do you enjoy our quality of service? Why not share it with your friends :)
 * Do you prefer Red or Blue? Tell us in the comments section below.
 
-In comparison to hashtags, the CTA is subjective. There are no right or wrong ways to write this sort of content. It is not a tangible 'feature' that can 'belong' to any particular platform. However, also like hashtags, they should be used in moderation. The Social Media Examiner points out that not every single piece of content needs to have a CTA. Rather, you should include a mix of different content with CTAs only being one part of the rotation. An occasional CTA post can promote engagement and interactivity among a fanbase. However, doing them too often in a short space of time can be seen as bad practice similar to using too many hashtags. If you do feel the need to include a CTA, it should be kept simple and not too obtrusive.
+In comparison to hashtags, the CTA is subjective. There are no right or wrong ways to write this sort of content. It is not a tangible 'feature' that can 'belong' to any particular platform. However, also like hashtags, they should be used in moderation. The Social Media Examiner points out that not every single piece of content needs to have a CTA. Rather, you should include a mix of different content with CTAs only being one part of the rotation. An occasional CTA post can promote engagement and interactivity among a fanbase. However, doing them too often can be seen as bad practice similar to using too many hashtags. If you do feel the need to include a CTA, it should be kept simple and not too obtrusive.
 
 ---
 
@@ -126,7 +126,7 @@ CTAs can be used in order to ask questions to your followers.
 >
 >\- Robert Rydefalk (Meltwater)
 
-When you ask the users a question, the goal is to start a discussion. Furthermore, participating in this discussion yourself reassures your followers that they are heard. You do not have to answer *every* single question or reply to *every* single response, but the important part is the interaction between viewers and providers. The idea is to show them that as an organization, you are active, approachable and sensitive to their concerns. In return, users will be more likely to remain loyal fans and recommend it to their friends. Taking every opportunity to engage your audience is part of what keeps them coming back for more.
+When you ask the users a question, the goal is to start a discussion. Furthermore, participating in this discussion yourself reassures your followers that they are heard. You do not have to answer *every* single question or reply to *every* single comment, but the important part is that interaction between creators and their viewers. The idea is to show them that as an organization, you are active, approachable and sensitive to their concerns. In return, users will be more likely to remain loyal fans and recommend it to their friends. Taking every opportunity to engage your audience is part of what keeps them coming back for more.
 
 It may also help to acknowledge shared posts. In other words, if a particular fan or business shares one of your posts, you should ‘like’ it so that they know you appreciate their effort.
 
@@ -139,7 +139,7 @@ A picture is worth a thousand words. It is often much quicker to find a decent i
 >
 > \-James Balm (BioMed Central)
 
-To reiterate, I am not suggesting that images replace text. You are able to include a short text description with an image post. Instead of relying solely on a long passage of text, you may upload a relevant image with a short description to establish context. It is a lot easier and quicker for the provider while more exciting and engaging for the user. Using a short description alongside the image is also a fair compromise for users who actively prefer text as opposed to images.
+To reiterate, this is not a suggestion that images replace text. You are able to include a short text description with an image post. Instead of relying solely on a long passage of text, you may upload a relevant image with a short description to establish context. It is a lot easier and quicker for the provider while more exciting and engaging for the user. Using a short description alongside the image is also a fair compromise for users who actively prefer text as opposed to images.
 
 \
 ![Picture post example](./images/post-types/pic-post.jpg)
@@ -150,13 +150,13 @@ This sales promotion post from JB Hi-Fi includes both an image and a short text 
 ---
 
 ### Content Optimization
-When expanding the reach of a Facebook page, a good starting point would be posting content optimized to generate attention and reactions. I do not mean that this should be done artificially or that we should inflate numbers for the sake of it. I am referring to organic optimization. As people skim down their news feed, your content has to capture the user’s attention so that they stop and read. The promise of the content and what is being delivered should inspire and motivate people to react to, engage and share it.
+When expanding the reach of a Facebook page, a good starting point would be posting content optimized to generate attention and reactions. This does not mean inflating numbers in an artificial way. This refers to organic optimization. As people skim down their news feed, your content has to capture the user’s attention so that they stop and read. The promise of the content and what is being delivered should inspire and motivate people to react to, engage and share it.
 
 >You should never publish content just for the sake of updating your Timeline — this applies to any social network, not only Facebook. Instead you should focus on creating content that fulfils your business objectives. The updates you post need to add value in some way, whether they’re educational, entertaining or conversational.
 >
 > \-Praneeta (Digible)
 
-The Facebook news feed is seldom an exhaustive list of the recent content shared by those you are connected to. Rather, the posts that you will see upon refreshing the homepage are prioritized in such a way to maximize your potential engagement. Trying to describe this system in detail would warrant a report of its own and even here, there is no way to list all of the possible factors.
+The Facebook news feed is rarely an exhaustive list of the recent content shared by those you are connected to. Rather, the posts that you will see upon refreshing the homepage are prioritized in such a way to maximize your potential engagement. Trying to describe this system in detail would be a massive project in itself and even then, there is no way to list all of the possible factors.
 
 Some of the most important factors include:
 
@@ -181,14 +181,14 @@ When optimizing content, it is worth fine-tuning the length, timing, and frequen
 
 As for post length, not everybody prefers long or short posts. Some might prefer short while others prefer long. Regardless if the content is text, images, or videos, consider the interaction trends to determine the post length that the audience generally prefers.
 
-As for when to post, try to concentrate around less busy times when people are more likely to be on Facebook. Of course, this is different per person. While I personally recommend the early-evening, that does not mean everybody will be active at the same time. However, once you find the time slot in which the audience is most receptive, post during that region so that people are more likely to see and react to content.
+As for when to post, try to concentrate around less busy times when people are more likely to be on Facebook. Of course, this is different per person. Not everybody will be active at the same time. However, once you find the time slot in which the audience is most receptive, post during that region so that people are more likely to see and react to content.
 
-As for post frequency, the only thing I can say is to not post too often. Otherwise, people will start ignoring or unliking. For a regional business such as Response, I would think that posting once or twice a day on average is reasonable.
+As for post frequency, do not post too often. Otherwise, people will start ignoring or unliking. For a regional business such as Response, posting once or twice a day on average can be considered reasonable.
 
 ---
 
 ### Videos
-If you are going to post videos, do so directly via Facebook where possible. It may be tempting to upload the video to YouTube and share the link but according to the articles I have read, videos uploaded directly to Facebook tend to have 10x more reach in comparison to those hosted on YouTube. It is understandable that you might be concerned about data limitations and internet speeds. Many people prefer to use YouTube as a central upload and share the link to multiple places throughout the internet. If you *are* connected to a network that will allow you to do so, upload the videos to Facebook directly. The News Feed Algorithm takes into account the video length as well as the reactions that it generates. Therefore, you can use video to gain more visibility and reach.
+If you are going to post videos, do so directly via Facebook where possible. It may be tempting to upload the video to YouTube and share the link but according to the articles I have read, videos uploaded directly to Facebook tend to have 10x more reach in comparison to those hosted on YouTube. It is understandable that you might be concerned about data limitations and internet speeds. Many people prefer to use YouTube as a central upload and share the link to multiple places throughout the internet. If you *are* connected to a network that will allow you to do so, upload the videos to Facebook directly, as the news feed algorithm will give higher priority. The algorithm takes into account the video length as well as the reactions that it generates. Therefore, you can use video to gain more visibility and reach.
 
 \
 ![Video post example](./images/post-types/video-post.jpg)
@@ -200,7 +200,7 @@ If you are going to post videos, do so directly via Facebook where possible. It 
 ### Reposts
 Sometimes when you need to communicate something important to a fanbase, it needs to be posted more than once. Try to identify this important content and after the initial post has expired, make another, similar post for those who may not have seen the first one.
 
-If you choose to do this, try to post it at a different time in comparison to the original post. For example, you make a promotional post one day at 12pm. People might see it when they check their Facebook but consider that people have school, work, and other commitments. Not everybody checks in at the exact same time. Instead, you might repost the content at 7pm the following evening for example. Not everybody will be active within the same general time-frame. There may be a different crowd of people who check Facebook in the evenings and not on their lunch break.
+If you choose to do this, try to post it at a different time in comparison to the original post. For example, you make a promotional post one day at 12pm. People might see it when they check their Facebook but consider that people have school, work, and other commitments. Not everybody checks in at the exact same time. Instead, you might repost the content at 7pm the following evening for example. There may be a different crowd of people who check Facebook in the evenings and not on their lunch break.
 
 Something else to keep in mind is that it is a bad idea to directly repost the content as it appeared originally. Instead, you should try to *reiterate* the content and explain the same information in a different way.
 
@@ -228,12 +228,12 @@ On the final post, the tagged name will look and function similar to a hyperlink
 ---
 
 ### External Traffic
-To give a simple description, if you embed or link a post in a website outside of Facebook, you will help send and direct people to the original source of the content. Therefore, you can improve your reach by accounting for those who might not have seen the content, or even use Facebook at all. Furthermore, there are plug-ins and widgets that enable you to embed Facebook posts, videos, or even entire pages onto a website so that users may view the Facebook content externally. You can also embed a simple ‘like button’ widget along with something that links to the page itself. However, the implementation of these widgets will not be discussed in this report.
+To give a simple description, if you embed or link a post in a website outside of Facebook, you will help send and direct people to the original source of the content. Therefore, you can improve your reach by accounting for those who might not have seen the content, or even use Facebook at all. Furthermore, there are plug-ins and widgets that enable you to embed Facebook posts, videos, or even entire pages onto a website so that users may view the Facebook content externally. You can also embed a simple ‘like button’ widget along with something that links to the page itself. However, the implementation of these widgets will not be discussed here.
 
 ---
 
 ### Paid Advertising
-This is exactly what it sounds like. You can pay for Facebook to advertise your content and boost the potential reach. As a result, Facebook’s algorithms will amplify both your organic and paid content.
+This is exactly what you would expect it to be. You can pay for Facebook to advertise your content and boost the potential reach. As a result, Facebook’s algorithms will amplify both your organic and paid content.
 
 >Here’s where you start to pay to boost the reach of your content to improve your Facebook marketing ROI considerably. Rather than promote everything, apply some strategic selection to amplify the established organic reach of specific posts with Facebook ads.
 >
@@ -246,17 +246,17 @@ This is exactly what it sounds like. You can pay for Facebook to advertise your 
 ---
 
 ### Delayed Advertising
-Relating back to the different forms of reach, posts can either gain reactions organically or with the assistance of paid advertising. Rather than simply relying on one or the other, it is recommended that you do not pay for advertising as soon as a post is made. Instead, let the post circulate naturally for a given amount of time before you boost it with an advertisement. How long that delay should be is subjective. For example, a post made by a global business with several million likes will have their posts circulated in a matter of minutes, or even seconds. However, for a smaller, more local business, this could be up to 24 hours.
+Relating back to the different forms of reach, posts can either gain reactions organically or with the assistance of paid advertising. Rather than simply relying on one or the other, it is recommended that you do not pay for advertising as soon as a post is made. Instead, let the post circulate naturally for some time before you boost it with an advertisement. How long that delay should be is subjective. For example, a post made by a global business with several million likes will have their posts circulated in a matter of minutes, or even seconds. However, for a smaller, more local business, this could take up to 24 hours.
 
 ---
 
 ### Promotion
-Despite Facebook’s popularity as a marketing tool, not everything you post has to be promotional or sales-related. Even though a business can have a Facebook page, the articles that I have read point to the concept of the 80/20 rule. In other words, only 20% of posts should be directly promotional while the other 80% should be more informal. For example, you could make a post regarding the general experience at Response on most days. Then you might make a blatant promotion perhaps once or twice a week.
+Despite Facebook’s popularity as a marketing tool, not everything you post has to be promotional or sales-related. Even though a business can have a Facebook page, the articles that I have read point to the concept of the '80/20 rule'. In other words, only 20% of posts should be directly promotional while the other 80% should be more informal. For example, you could make a post regarding the general experience at Response on most days. Then you might make a blatant promotion perhaps once or twice a week.
 
 ---
 
 ### Post Targeting
-Instead of relying on paid advertising as the first resort, posts can be targeted to specific audiences. The Facebook News Feed algorithm will take these targets into account so that the particular post will reach the right people organically. A post can be targeted towards demographics such as gender, age, location, and specific interests. You can also set an expiry date for your post so it will stop showing on news feeds by that date. With that being said, this feature only affects the likelihood of a post being displayed on a given person’s news feed. Of course, when somebody views a fan page directly, they can see all of their posts, even if they passed their 'expiry date'. It is also important to note that when using this feature, your post must target at least 20 people.
+Instead of relying on paid advertising as the first resort, posts can be targeted to specific audiences. The Facebook news feed algorithm will take these targets into account so that the particular post will reach the right people organically. A post can be targeted towards demographics such as gender, age, location, and specific interests. You can also set an expiry date for your post so it will stop showing on news feeds by that date. With that being said, this feature only affects the likelihood of a post being displayed on a given person’s news feed. Of course, when somebody views a fan page directly, they can see all of their posts, even if they passed their 'expiry date'. It is also important to note that when using this feature, your post must target at least 20 people.
 
 ---
 
@@ -404,7 +404,7 @@ The 'Reach' section shows data regarding the overall engagement of fans. This in
 * Positive engagement
 	* Likes, comments, shares, etc.
 * Negative engagement
-	* Hides, Spam reports, unlikes, etc.
+	* Hides, spam reports, unlikes, etc.
 * Total reach
 	* The total number of people who have seen any of the page's posts regardless of how they have been circulated.
 
@@ -441,7 +441,7 @@ The 'Video' section displays information related to video posts. This includes:
 * **10-Second Views:** Number of times videos posted on the page were viewed for at least 10 seconds.
 * **Top videos:** Most viewed videos based on the number of 3+ second views.
 
-Since this is similar to the 'Posts' section, I have decided not to include a screenshot.
+Since this is similar to the 'Posts' section, a screenshot has not been included.
 
 ---
 
@@ -460,9 +460,7 @@ For example, this screenshot indicates that out of all of the depicted page's fa
 ---
 
 ## Conclusion
-This report is a compilation of several different sources regarding Facebook fan pages and advice on how they can be managed. It also explains how to promote the page for potential new fans, and to promote engagement among existing fans. It should be noted that this is not qualified or concrete information on running Facebook page, or any website for that matter. Hence, it should only be used as a starting point. Below, I have included links to the source material and other used assets for further reading.
-
--Tyrone
+This report is a compilation of several different sources regarding Facebook fan pages and advice on how they can be managed. It also explains how to promote the page for potential new fans, and to promote engagement among existing fans. It should be noted that this is not qualified information on running Facebook pages, or any website for that matter. Hence, it should only be used as a starting point. Links have been included to the source material and other used assets for further reading.
 
 ---
 
@@ -574,19 +572,17 @@ Here is a list of all of the sources used when writing this document. They are s
 ---
 
 ## Disclaimer
-This repository is based on an internal document I wrote as part of the IT team at Response Services Incorporated. I was asked to conduct some research on how to improve the reach of their Facebook fan page, and compile the results into a document for future reference.
+This repository is based on an internal document written as part of the IT team at Response Services Incorporated. It was originally written on 5-6 September 2017. While this information appears to still be relevant as of 2021, there is no guarantee that it is accurate or up-to-date.
 
-I wrote the original version of this document on 5-6 September 2017. While this information appears to still be relevant as of 2021, there is no guarantee that it is accurate or up-to-date.
+The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon. The revised document was then shared publicly to GitHub on 3 February 2021.
 
-The document was converted to markdown on 1-3 Feburary 2021. Any organization-specific information was removed, rewritten to fit with the general topic, or elaborated upon with context. The revised document was then shared publicly to GitHub on 3 February 2021.
+The sources used - both for the original document, and when revising for public release - have been linked in the [Further Reading](#further-reading) section with the name of the author. All links have been verified as of 3 Feburary 2021. The information used for this document is the property of its respective legal owners.
 
-The sources I have used - both for the original document, and when revising for public release - have been linked in the [Further Reading](#further-reading) section with the name of the author. All links have been verified as of 3 Feburary 2021. The information I used for this document is the property of its respective legal owners.
+The screencaps of [Bill Gates'](https://www.facebook.com/BillGates) Facebook fan page are original work and were made on 6 September 2017
 
-The screencaps of [Bill Gates'](https://www.facebook.com/BillGates) Facebook fan page are my own work and were made on 6 September 2017
+The screencap of the [JB Hi-Fi](https://www.facebook.com/JBHiFi) sales promotion post on their Facebook fan page is original work and was made on 2 February 2021.
 
-The screencap of the [JB Hi-Fi](https://www.facebook.com/JBHiFi) sales promotion post on their Facebook fan page is my own work and was made on 2 February 2021.
-
-The [Cat](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/) image file was retrieved from Pixabay on 1 February 2021, which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. I used a different Cat image when writing the original document. However, it was from a commercial source so I replaced it with a 'Creative Commons' image.
+The [Cat](https://pixabay.com/photos/cat-pet-domestic-cat-mackerel-4348355/) image file was retrieved from Pixabay on 1 February 2021, which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. A different Cat image was used when writing the original document. However, it was from a commercial source so it has been replaced it with a 'Creative Commons' image.
 
 All other images originate from the source articles linked in 'Further Reading'
 
